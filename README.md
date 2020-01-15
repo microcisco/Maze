@@ -11,7 +11,7 @@ __注：由于项目是RPG类型游戏所以要求生成的迷宫不能太过复
 * 如果栈为空就跳出
 
 ### 截图
-<img src="./668.png" width="721" height="564"/>
+<img src="./assets/668.png" width="721" height="564"/>
 
 ### 非cocos环境
 本demo使用的cocos create版本是2.2.2，如果是非cocos create的朋友直接使用DFS类即可。
